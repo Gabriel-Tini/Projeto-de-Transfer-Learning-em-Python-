@@ -64,6 +64,6 @@ Durante o treinamento, foram gerados gráficos de:
 ---
 
 ## 👨‍💻 Autor
-**Gabriel**  
+**Gabriel Henrique**  
 📌 Estudante de Administração, IA e Machine Learning  
 📧 [hgabriel812@gmail.com] | 🔗 [[LinkedIn](https://www.linkedin.com/in/gabrielhenrique-cs/)]  
